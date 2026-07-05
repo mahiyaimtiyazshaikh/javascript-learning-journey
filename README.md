@@ -1,11 +1,11 @@
-# JavaScript Learning Journey
+# JavaScript Learning Journey 🚀
 
-## 👋 About
+## About Me
+Hi! I'm Mahiya, an MCA student preparing for software engineering placements and internships.
 
-This repository contains my JavaScript practice and learning journey while preparing for software engineering placements and internships.
+This repository documents my daily JavaScript practice and progress toward becoming a full-stack developer.
 
-## 📚 Topics Covered
-
+## Topics Covered
 - Variables
 - Data Types
 - Operators
@@ -13,10 +13,17 @@ This repository contains my JavaScript practice and learning journey while prepa
 - Loops
 - Functions
 
-## 🎯 Goal
+## Learning Goals
+- Master Modern JavaScript (ES6+)
+- Build Real Projects
+- Learn React.js
+- Learn Node.js & Express
+- Crack Campus Placements
 
-Build a strong JavaScript foundation and become placement-ready through consistent daily practice and projects.
+## Daily Progress
+- ✅ Git & GitHub Setup
+- ✅ JavaScript Fundamentals
+- 🔄 Modern JavaScript (In Progress)
 
 ---
-
-⭐ Learning one day at a time.
+⭐ Consistency over perfection.
