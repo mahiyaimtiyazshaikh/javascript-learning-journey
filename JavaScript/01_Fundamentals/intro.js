@@ -1,4 +1,5 @@
 console.log("Hello world");
+// variables
 let name = "Mario";
 let age = 22;
 let isfemale = true;
