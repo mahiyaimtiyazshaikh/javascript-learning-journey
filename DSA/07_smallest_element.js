@@ -1,5 +1,5 @@
 let numbers = [85,97,12,31,64,75];
-let smallest = numbers[0];
+let smallest = numbers[1];
 for(i=1;i<numbers.length;i++){
     if(numbers[i]<smallest){
         smallest=numbers[i];
